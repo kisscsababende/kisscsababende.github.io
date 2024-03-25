@@ -1,0 +1,58 @@
+body{
+    background-color: forestgreen;
+}
+#content{
+    max-width: 888px;
+    width: auto;
+    margin: 0 auto;
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 20px;
+}
+#imageright{
+	float: right;
+    max-width: 200px;
+    width: auto;
+    margin-left: 20px;
+    border: 1px solid forestgreen;
+    padding: 10px;
+    border-radius: 15px;
+}
+#imageright img{
+    max-width: 200px;
+    width: auto;
+}
+#imageleft{
+    float: left;
+	max-width: 300px;
+    width: auto;
+    margin-right: 40px;
+    margin-bottom: 60px;
+    border: 1px solid forestgreen;
+    padding: 10px;
+    border-radius: 20px;
+}
+#imageleft img{   
+	max-width: 300px;
+    width: auto;
+}
+.kepszoveg{
+	font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+h1,h2{
+    text-transform: uppercase;
+    color: forestgreen;
+}
+p,li{
+    text-align: justify;
+}

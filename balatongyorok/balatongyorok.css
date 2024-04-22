@@ -1,0 +1,14 @@
+body { background: url('back.jpg'); }
+.content { margin: 0 auto; width: 1000px; }
+.header { min-width: 650px; max-width: 1000px; height: 240px; background: url('panorama.jpg');background-repeat: no-repeat; background-size: cover;}
+.header 
+.crest { float: right; margin-right: 50px; margin-top: 20px; }
+.header h1 { color: darkblue; float: left; margin-left: 20px; margin-top: 20px; }
+#cimer{width: 150px; height: 150px; }
+.panel { width: 450px; background: #5B9CEA; padding: 10px 20px; }
+.align-left { float: left; }
+.align-right { float: right; }
+table { background: #B0D1F1; border-collapse: collapse; }
+table, td { border: 1px solid black; }
+td { padding: 5px; width: 50%; }
+tr td:first-child { text-align: center; font-weight: bold; }

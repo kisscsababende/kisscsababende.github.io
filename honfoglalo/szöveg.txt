@@ -1,0 +1,19 @@
+Honfoglaló
+
+A Honfoglaló egy magyar fejlesztésû online stratégiai kvízjáték, amely 2002. október 20-án debütált az interneten. Külföldön is megjelent: Dobyvatel ("Hódító") címen cseh, illetve Triviador címen spanyol, angol, bolgár, orosz, arab, török, portugál, román, német, francia, lengyel, szlovén és szerb nyelven. Késõbb (2003. február 11-tõl) már társasjáték formájában is játszható volt, ugyanezen nyelveken. A játékot a felhasználói is bõvíthetik azzal, hogy kérdéseket küldenek be az oldalra, amik elõször egy szûrõn mennek át, majd késõbb a játékban is láthatóak is lesznek.
+
+JÁTÉKMENET
+
+A játék célja, hogy kérdéseket megválaszolva minél több megyét lehessen elfoglalni Magyarország térképén. A játék elõször egy faluban kezdõdik, majd a Játékindítás gombra kattintva, aztán pedig a nehézségi fok kiválasztása után indítható el. A nyertes az, aki a legtöbb pontot szerzi meg a játszma végére. A kérdésekre tippelni lehet, illetve megadott válaszokat lehet kiválasztani. Egyszerre 3 játékos játszhat egymás ellen (játszmánként). A 3 játékos színe: piros, zöld, kék (utóbbi helyett korábban a sárga volt használatos) . A játék bázisfoglalással kezdõdik, amikor a gép elhelyezi mindhárom játékos várát egy-egy megyében, ezután a játékosok a többi megye megszerzéséért küzdenek kérdések megválaszolásával. Miután elfogyott a térképrõl az összes szabad megye, megkezdõdik a foglalás, amikor a játékosok egymás megyéinek elfoglalására törekednek (harcolnak). A játékban egy megye elfoglalásáért helyes választ kell kiválasztani a négybõl; amennyiben mindkét játékos helyesen válaszol, egy tippelõs kérdésre közelebbi számot kell megadni, mint az ellenfél, vagy ha ugyanazt a számot adja meg az ellenfél is, akkor a gyorsabban válaszoló játékosé lesz a megye. Egy vár elfoglalásáért háromszor kell végigcsinálni ezt. A játékban több játékmód van (pl.: villámháború, hosszú hadjárat, junior játék, mini bajnokság, játék barátokkal stb.). A külföldi változatok játékmenete nem tér el nagyban, csak a Magyarország-térkép helyett az adott ország térképén lehet játszani.
+
+LIGÁK & RANGLISTÁK
+4 FAJTA RANGLISTÁVAL TALÁLKOZHATSZ A HONFOGLALÓBAN:
+Barát
+Személyes
+Megye
+Klán
+MINDEN RANGLISTA 3 KATEGÓRIÁRA VAN LEBONTVA:
+Mindenidõk: Az összes eddig összegyûjtött XP alapján. Nem kapcsolódik a Ligákhoz.
+Heti: Megmutatja a jelenlegi helyezésedet a Ligán belül. Itt találod, hogy jelenleg melyik ligában harcolsz, ill. hogy kiesõ, feljebb jutó helyen állsz e, vagy maradsz a jelenlegi ligában a Heti Kihívás végén.
+Múltheti: Az elõzõ héten elért eredményedet mutatja.
+Forrás:https://hu.wikipedia.org/wiki/Honfoglal%C3%B3
